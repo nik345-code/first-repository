@@ -1,0 +1,6 @@
+oslo
+moscow
+berlin
+nairobi
+tokyo
+arturito
